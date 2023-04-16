@@ -16,7 +16,7 @@ A Discord account with a valid user token
 4. Open the config.json file in a text editor and replace the token field with your Discord user token.
 5. Customize the animation array in the config.json file with your own custom status animations. Each animation should be an object with two fields: text (required) and either emojiID or emojiName (optional). The text field specifies the text of the custom status, while the emojiID and emojiName fields specify an emoji to use in the custom status.
 
-# usage 
+# Usage 
 
 node index.js
 
