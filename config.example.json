@@ -1,0 +1,36 @@
+{
+	"token": "token",
+	"handleRatelimit": true,
+	"animation": [
+		{
+			"text": "█░░░░░░░░░░░░░ 1%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 4000
+		},
+		{
+			"text": "███░░░░░░░░░░░ 25%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 4000
+		},
+		{
+			"text": "███████░░░░░░░ 50%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 4000
+		},
+		{
+			"text": "█████████░░░░░ 75%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 4000
+		},
+		{
+			"text": "██████████████ 100%",
+			"emojiID": "null",
+			"emojiName": "null",
+			"timeout": 4000
+		}
+	]
+}
